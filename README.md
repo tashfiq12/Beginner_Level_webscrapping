@@ -9,7 +9,7 @@
   * Cheerio
   
   ## Prerequisites
-  * NodeJs installed in PC
+  * NodeJs installed in PC from [nodejs site](https://nodejs.org/en/download/)
   
   ## Installation Guides
   
