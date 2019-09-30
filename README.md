@@ -1,7 +1,7 @@
 # Project Overview
-  A basic level web scraping project where I can extracted important notices with Date from my University  Military Institute of Science 
-  and Technology website. It's just a starting for me in web scappping arena. In this project all the data will be saved 
-  in .csv format.
+  A basic level web scraping project where I can extract important notices with Date from my University  [Military Institute of Science 
+  and Technology website](https://mist.ac.bd) . It's just a starting for me in web scappping arena. In this project all the data will be saved 
+  in excel format.
   
   ## Built with
   * NodeJs
